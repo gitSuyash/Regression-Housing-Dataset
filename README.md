@@ -2,7 +2,9 @@
 
 #### Aim: Predict target variable ```SalePrice``` using suitable features.
 
-Approach:
+#### Evaluation Metric: RMSE between the logarithm of predicted and actual values.
+
+#### Approach:
 1. Load and inspect data.
 2. Separate Numerical & Categorical Data in train dataset.
 3. Check for Null Values in Numerical & Categorical Data
